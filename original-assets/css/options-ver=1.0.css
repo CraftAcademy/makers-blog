@@ -1,0 +1,228 @@
+
+body {
+	background: #e2e2e2 ;
+}
+
+
+
+.timeline {
+	background-image: linear-gradient(-45deg, #dbdbdb 25%, transparent 25%, transparent 50%, #dbdbdb 50%, #dbdbdb 75%, transparent 75%, transparent);
+}
+
+a {
+	color: #ab1a26;
+}
+
+.form-wrapper .icon-search {
+	color: #ab1a26;
+}
+
+.post-format-meta {
+	background: #ab1a26;
+}
+
+.post-info [class^="icon-"]:before,
+.post-info [class*=" icon-"]:before {
+	color: #ab1a26;
+}
+
+.footer-title {
+	color: #ab1a26;
+}
+
+#rwd-top-nav {
+	background: #ab1a26;
+}
+
+.contactform .error {
+	color: #ab1a26;
+}
+
+#main-header .widget_social a {
+	background: #ab1a26;
+}
+
+.nano > .pane > .slider {
+	background: #ab1a26;
+}
+
+a:hover, a:focus {
+	color: #ffffff;
+	background: #ab1a26;
+}
+
+.gallery .wp-caption-text a:hover, .aligncenter .wp-caption-text a:hover, .alignright .wp-caption-text a:hover, .alignleft .wp-caption-text a:hover, .alignnone .wp-caption-text a:hover, .attachment .wp-caption-text a:hover {
+	background: #ab1a26;
+}
+
+#main-header .widget a:hover {
+	color: #ab1a26;
+}
+
+.post-meta [class^="icon-"]:before,
+.post-meta [class*=" icon-"]:before,
+.post-meta a {
+	color: #ab1a26;
+}
+
+#main-header {
+	background-color: #dddddd;
+}
+
+#main-header .logo{
+	background-color: #000000;
+}
+
+#main-navigation ul li a.toggled {
+	background: #ab1a26;
+}
+
+#main-navigation ul li a:hover {
+	background: #ab1a26;
+}
+
+#main-navigation .sub-menu {
+	background: #ffffff;
+}
+
+#main-header {
+	color: #777777;
+}
+
+#main-header .widget a:hover span {
+  color: #777777;
+}
+
+#main-navigation ul li a:hover span:before {
+	color: #777777;
+}
+
+#main-header .widget a {
+	color: #333333;
+}
+
+#main-header a, #main-header a:focus {
+	color: #333333;
+}
+
+#main-navigation {
+	border-top: 4px solid #ffffff;
+}
+
+#main-header h2.widget-title {
+	color: #ffffff;
+	background: #ab1a26;
+}
+
+#main-header .widget {
+	border-top: 4px solid #ab1a26;
+}
+
+.logo-subtitle{
+	color: #ffffff;
+}
+
+
+
+::-webkit-selection {
+	background: #f28c3a;
+}
+
+::-moz-selection {
+	background: #f28c3a;
+}
+
+::-o-selection {
+	background: #f28c3a;
+}
+
+
+::selection {
+	background: #f28c3a;
+}
+
+/*===========================================================*/
+/*    Typography
+/*===========================================================*/
+
+body {
+		font-family: Open Sans;
+		font-size: 15px;
+	line-height: 35px; 
+	font-style: normal;	color: #545454;
+}
+
+#main-header .logo-title a{
+		font-family: Lobster;
+		font-size: 48px;
+	line-height: 70px; 
+	font-style: normal;	color: #f4f3e3;
+}
+
+.logo-subtitle {
+		font-family: Open Sans;	
+		font-size: 15px;
+	line-height: 28px;
+	font-style: italic;	color: #fff;
+}
+
+h1, h2, h3, h4 , h5, h6 {
+		font-family: Arvo;
+		font-style: normal;	color: #444444;
+}
+
+.post-title a, .post-title-small a {
+	color: #444444;
+}
+
+#main-navigation ul li a {
+		font-family: Arvo;
+	font-size: 17px;
+	line-height: 35px;
+		font-style: normal;	color: #545454;
+}
+
+/*===========================================================*/
+/*    Headings Typography
+/*===========================================================*/
+
+h1 {
+	font-size: 30px;
+	line-height: 56px;
+	font-style: normal;}
+
+h2 {
+	font-size: 24px;
+	line-height: 42px;
+	font-style: normal;}
+
+h3 {
+	font-size: 21px;
+	line-height: 42px;
+	font-style: normal;}
+
+h4 {
+	font-size: 18px;
+	line-height: 35px;
+	font-style: normal;}
+
+h5 {
+	font-size: 15px;
+	line-height: 28px;
+	font-weight: bold;}
+
+h6 {
+	font-size: 13px;
+	line-height: 28px;
+	font-weight: bold;}
+
+h1.post-title {
+	font-size: 24px;
+	line-height: 42px;
+	font-weight: bold;}
+
+h1.post-title-small {
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: bold;}
+
