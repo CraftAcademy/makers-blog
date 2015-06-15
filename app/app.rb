@@ -8,7 +8,7 @@ module SampleBlog
     enable :sessions
 
     get "/" do
-      "Hello World!"
+      redirect url(:posts, :index)
     end
 
     get :about, :map => '/about_us' do
